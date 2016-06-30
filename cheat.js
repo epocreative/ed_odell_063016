@@ -8,6 +8,8 @@ function logTOHTML() {
 	document.getElementByID("title".innerHTML = "Simple Title")
 }
 
+//Simple math
+
 var x = 20;
 var y = 30;
 console.log(x + y);
